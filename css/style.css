@@ -23,6 +23,11 @@
     font-size: 25px;
 }
 
+.main-header{
+    color: #1d3557;
+    font-size: 40px;
+}
+
 .underline{
     height: 4px;
     width: 10rem;
